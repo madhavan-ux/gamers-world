@@ -1,0 +1,17 @@
+body{
+    background-image: url(./ggg.jifi.jfif);
+    background-size: cover;
+}
+h1{
+    font-style: oblique;
+    color: orangered;
+    text-shadow: 50px black;
+    font-size: 300%;
+}
+img{
+    margin-top: 180px;
+    margin-left: 400px;
+    border-radius: 100px;
+    border: 20px solid black;
+}
+
